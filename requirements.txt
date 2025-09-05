@@ -1,0 +1,3 @@
+install the following modules
+1.matplotlib
+2.pandas
